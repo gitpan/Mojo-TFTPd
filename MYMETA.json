@@ -32,7 +32,7 @@
       },
       "runtime" : {
          "requires" : {
-            "Mojo" : "4.00"
+            "Mojolicious" : "4.30"
          }
       }
    },
@@ -44,7 +44,10 @@
       "homepage" : "https://metacpan.org/release/Mojo-TFTPd",
       "license" : [
          "http://dev.perl.org/licenses/"
-      ]
+      ],
+      "repository" : {
+         "url" : "https://github.com/jhthorsen/mojo-tftpd"
+      }
    },
-   "version" : "0.0202"
+   "version" : "0.0203"
 }
