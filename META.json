@@ -22,7 +22,7 @@
    "prereqs" : {
       "build" : {
          "requires" : {
-            "Test::More" : "0.88"
+            "Test::More" : "0.90"
          }
       },
       "configure" : {
@@ -32,21 +32,19 @@
       },
       "runtime" : {
          "requires" : {
-            "Mojolicious" : "3.0"
+            "Mojo" : "4.00"
          }
       }
    },
    "release_status" : "stable",
    "resources" : {
       "bugtracker" : {
-         "web" : "https://github.com/jhthorsen/mojo-tftpd/issues"
+         "web" : "http://rt.cpan.org/NoAuth/Bugs.html?Dist=Mojo-TFTPd"
       },
+      "homepage" : "https://metacpan.org/release/Mojo-TFTPd",
       "license" : [
          "http://dev.perl.org/licenses/"
-      ],
-      "repository" : {
-         "url" : "http://github.com/jhthorsen/mojo-tftpd"
-      }
+      ]
    },
-   "version" : "0.0201"
+   "version" : "0.0202"
 }

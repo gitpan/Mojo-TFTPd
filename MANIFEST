@@ -8,9 +8,7 @@ MYMETA.json
 MYMETA.yml
 README
 README.pod
-t/00-load.t
-t/00-pod-coverage.t
-t/00-pod.t
+t/00-basic.t
 t/01-parse_listen.t
 t/basic.t
 t/data/150abcd
