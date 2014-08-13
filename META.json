@@ -4,9 +4,9 @@
       "Jan Henning Thorsen <jhthorsen@cpan.org>"
    ],
    "dynamic_config" : 1,
-   "generated_by" : "ExtUtils::MakeMaker version 6.66, CPAN::Meta::Converter version 2.131560",
+   "generated_by" : "ExtUtils::MakeMaker version 6.66, CPAN::Meta::Converter version 2.120921",
    "license" : [
-      "perl_5"
+      "artistic_2"
    ],
    "meta-spec" : {
       "url" : "http://search.cpan.org/perldoc?CPAN::Meta::Spec",
@@ -22,7 +22,7 @@
    "prereqs" : {
       "build" : {
          "requires" : {
-            "Test::More" : "0.90"
+            "Test::More" : "0.88"
          }
       },
       "configure" : {
@@ -39,15 +39,12 @@
    "release_status" : "stable",
    "resources" : {
       "bugtracker" : {
-         "web" : "http://rt.cpan.org/NoAuth/Bugs.html?Dist=Mojo-TFTPd"
+         "web" : "https://github.com//github.com/jhthorsen/mojo-tftpd/issues"
       },
-      "homepage" : "https://metacpan.org/release/Mojo-TFTPd",
-      "license" : [
-         "http://dev.perl.org/licenses/"
-      ],
+      "homepage" : "https://github.com///github.com/jhthorsen/mojo-tftpd",
       "repository" : {
-         "url" : "https://github.com/jhthorsen/mojo-tftpd"
+         "url" : "https://github.com///github.com/jhthorsen/mojo-tftpd"
       }
    },
-   "version" : "0.0203"
+   "version" : "0.03"
 }

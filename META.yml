@@ -3,12 +3,12 @@ abstract: 'Trivial File Transfer Protocol daemon'
 author:
   - 'Jan Henning Thorsen <jhthorsen@cpan.org>'
 build_requires:
-  Test::More: 0.90
+  Test::More: 0.88
 configure_requires:
   ExtUtils::MakeMaker: 0
 dynamic_config: 1
-generated_by: 'ExtUtils::MakeMaker version 6.66, CPAN::Meta::Converter version 2.131560'
-license: perl
+generated_by: 'ExtUtils::MakeMaker version 6.66, CPAN::Meta::Converter version 2.120921'
+license: artistic_2
 meta-spec:
   url: http://module-build.sourceforge.net/META-spec-v1.4.html
   version: 1.4
@@ -20,8 +20,7 @@ no_index:
 requires:
   Mojolicious: 4.30
 resources:
-  bugtracker: http://rt.cpan.org/NoAuth/Bugs.html?Dist=Mojo-TFTPd
-  homepage: https://metacpan.org/release/Mojo-TFTPd
-  license: http://dev.perl.org/licenses/
-  repository: https://github.com/jhthorsen/mojo-tftpd
-version: 0.0203
+  bugtracker: https://github.com//github.com/jhthorsen/mojo-tftpd/issues
+  homepage: https://github.com///github.com/jhthorsen/mojo-tftpd
+  repository: https://github.com///github.com/jhthorsen/mojo-tftpd
+version: 0.03
